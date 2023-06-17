@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Mark1",
+      "email": "kaar@mail.ru",
+      "children": true,
+      "permissions": true,
+      "id": 1
+    },
+    {
+      "name": "kirik",
+      "email": "kirik@mail.ru",
+      "children": false,
+      "permissions": true,
+      "id": 2
+    },
+    {
+      "name": "Anton212",
+      "email": "422@mail.ru",
+      "children": false,
+      "permissions": false,
+      "id": 3
+    },
+    {
+      "name": "Chirill",
+      "email": "Mark@mail.ru",
+      "children": false,
+      "permissions": false,
+      "id": 4
+    },
+    {
+      "name": "tony",
+      "email": "tony@mail.ru",
+      "children": false,
+      "permissions": false,
+      "id": 5
+    }
+  ]
+}
